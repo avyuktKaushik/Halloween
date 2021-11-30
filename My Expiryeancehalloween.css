@@ -1,0 +1,19 @@
+#flip{
+    background-color:aquamarine;
+    padding:0%;
+  }
+  #flip li{
+list-style: none;
+display: inline-block;
+padding: 12px; 
+  }
+ #flip a{
+   color: black;
+ }
+ body{
+     background-image:linear-gradient(Yellow,orange,orangered,red );
+ }
+ #doomofdoom{
+  background-color: brown;
+  color: chartreuse;
+}
